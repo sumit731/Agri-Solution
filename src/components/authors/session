@@ -1,0 +1,9 @@
+sessionStorage.setItem("key", "Value");
+sessionStorage.setItem("name", "janki");
+sessionStorage.setItem("email", "janki@gmail.com");
+
+sessionStorage.getItem("key");
+sessionStorage.getItem("email");
+
+sessionStorage.removeItem("name");
+sessionStorage.clear();
